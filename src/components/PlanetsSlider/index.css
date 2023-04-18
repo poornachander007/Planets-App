@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.PlanetsSlider_container {
+  width: 100%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+}
+
+.main_heading {
+  text-align: center;
+  color: #05acff;
+  font-weight: 600;
+  font-size: 24px;
+}
+/* .dotsClass {
+  color: white;
+  display: flex;
+} */
